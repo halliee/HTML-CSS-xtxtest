@@ -24,7 +24,7 @@
   - common.css：该网站中多个网页相同模块的重复样式，如：头部，底部
   - index.css：首页样式
 
--6.
+- 6.
   -xtx-pc-client    项目目录
   -index.html  首页的htm1文件
   -favicon.ico   ico图标
