@@ -5,6 +5,7 @@
 
 
 ## 项目功能
+该项目共分为七大部分：快捷导航栏、header头部模块、banner图、新鲜好物模块、人气推荐模块、生鲜模块、footer版权模块
 
 ## 项目信息
 
@@ -24,14 +25,14 @@
   - common.css：该网站中多个网页相同模块的重复样式，如：头部，底部
   - index.css：首页样式
 
-- 6.
-  -xtx-pc-client    项目目录
-  -index.html  首页的htm1文件
-  -favicon.ico   ico图标
-  -images   固定使用的图片素材，如:  ogo、样式修饰图片...
-  -uploads  非固定使用的图片素材，如: 商品图片、宣传图片...
-  -css      css文件夹
-    -base.css     基础公共样式
-    -common.css   该网站中多个网页相同模块的重复样式，如:头部、底部
-    -index.css    首页的css文件
+- 6.说明
+  - xtx-pc-client————项目目录
+  - index.html—————首页的htm1文件
+  - favicon.ico——————ico图标
+  - images————固定使用的图片素材，如:  ogo、样式修饰图片...
+  - uploads————非固定使用的图片素材，如: 商品图片、宣传图片...
+  - css ———— css文件夹
+    - base.css     基础公共样式
+    - common.css   该网站中多个网页相同模块的重复样式，如:头部、底部
+    - index.css    首页的css文件
 
