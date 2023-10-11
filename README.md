@@ -7,6 +7,12 @@
 ## 项目功能
 该项目共分为七大部分：快捷导航栏、header头部模块、banner图、新鲜好物模块、人气推荐模块、生鲜模块、footer版权模块
 
+![Alt Text](images/xtx1.jpg)
+<br />
+![Alt Text](images/xtx2.jpg)
+<br />
+![Alt Text](images/xtx3.jpg)
+
 ## 项目信息
 #### 所用知识点：
 1. 精灵图 ： <br />
